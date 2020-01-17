@@ -35,7 +35,7 @@
 
 ![image-20200117194511139](/home/lichunhong/.config/Typora/typora-user-images/image-20200117194511139.png)
 
-进行物体碰撞检测，本车用多个圆表示，障碍物用多边形表示。
+进行物体碰撞检测，自车用多个圆表示，障碍物用多边形表示。
 
 
 
@@ -45,3 +45,42 @@
 
 
 
+静态障碍物：left-right decision 根据简单的几何结构，将障碍物分配到左右两边
+
+![image-20200117202900285](/home/lichunhong/.config/Typora/typora-user-images/image-20200117202900285.png)
+
+
+
+动态障碍物：分为迎面车辆，划分在右侧；超车车辆，划分在左侧
+
+移动障碍物预测：常速并且与右边界保持固定的距离。
+
+
+
+#### E. Distance function
+
+//TODO
+
+基于优化的路径选择
+
+
+
+![image-20200117205411907](/home/lichunhong/.config/Typora/typora-user-images/image-20200117205411907.png)
+
+
+
+
+
+
+
+#### F. Re-planning scheme
+
+![image-20200117204615577](/home/lichunhong/.config/Typora/typora-user-images/image-20200117204615577.png)
+
+
+
+
+
+#### G. Constrained optimization
+
+//TODO
