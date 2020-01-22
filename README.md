@@ -22,7 +22,7 @@ QQ交流群：861253468
 
 ### IV. BEHAVIORAL PLANNER
 
-![image-20200121135656035](/home/lichunhong/.config/Typora/typora-user-images/image-20200121135656035.png)
+![image-20200121135656035](./imags/image-20200121135656035.png)
 
 
 
@@ -60,7 +60,7 @@ QQ交流群：861253468
 
 
 
-![image-20200121140821766](/home/lichunhong/.config/Typora/typora-user-images/image-20200121140821766.png)
+![image-20200121140821766](./imags/image-20200121140821766.png)
 
 
 
@@ -72,13 +72,13 @@ QQ交流群：861253468
 
 以“视野角”的大小表示感知情况，评估风险，并作为目标函数进行优化
 
-![image-20200121143145968](/home/lichunhong/.config/Typora/typora-user-images/image-20200121143145968.png)
+![image-20200121143145968](./imags/image-20200121143145968.png)
 
 
 
 
 
-<img src="/home/lichunhong/.config/Typora/typora-user-images/image-20200121142835394.png" alt="image-20200121142835394" style="zoom:80%;" />
+<img src="./imags/image-20200121142835394.png" alt="image-20200121142835394" style="zoom:80%;" />
 
 
 
@@ -96,7 +96,7 @@ QQ交流群：861253468
 
 
 
-![image-20200121154427920](/home/lichunhong/.config/Typora/typora-user-images/image-20200121154427920.png)
+![image-20200121154427920](./imags/image-20200121154427920.png)
 
 超车的最佳时间为$t_{overtake}$
 
@@ -106,7 +106,7 @@ QQ交流群：861253468
 
 #### B. Information Sufficiency
 
-![image-20200121151957801](/home/lichunhong/.config/Typora/typora-user-images/image-20200121151957801.png)
+![image-20200121151957801](./imags/image-20200121151957801.png)
 
 
 
@@ -126,7 +126,7 @@ TODO：
 
 
 
-![image-20200121154656833](/home/lichunhong/.config/Typora/typora-user-images/image-20200121154656833.png)
+![image-20200121154656833](./imags/image-20200121154656833.png)
 
 
 
@@ -291,5 +291,5 @@ $$\delta(t)=tan^{-1}(\frac{Lsin(\eta(t))}{L_{fw}})$$
 
 
 
-![image-20200121112430633](/home/lichunhong/.config/Typora/typora-user-images/image-20200121112430633.png)
+![image-20200121112430633](./imags/image-20200121112430633.png)
 
